@@ -2,7 +2,7 @@
 
 > 下面是一个经典的git流模型
 
-![77401108695](C:\Users\Administrator\AppData\Local\Temp\1774011086952.png)
+![77401108695](D:\code\GitTest\1774011086952.png)
 
 - develop是测试分支
 - hot fixes是修bug用的
